@@ -36,5 +36,5 @@
 
 ## 📫 Contacto
 
-- 📧 Email: velizkevin626@gmial.com
+- 📧 Email: velizkevin626@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/kevin-veliz-2a5220200/
